@@ -1,0 +1,22 @@
+{
+  "name": "redditimagerequest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motodrew/RedditImageRequest.git"
+  },
+  "keywords": [
+    "reddit"
+  ],
+  "author": "Drew Casebeer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/motodrew/RedditImageRequest/issues"
+  },
+  "homepage": "https://github.com/motodrew/RedditImageRequest#readme"
+}
